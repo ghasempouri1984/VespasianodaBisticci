@@ -17,5 +17,4 @@ This project is an attempt to address the question “why map literature?”. Th
 
 Sahle, Partick. 2016. “What is a Scholarly Digital Edition.” In Digital Scholarly Editing:
 Theories and Practices, edited by Matthew James Driscoll and Elena Pierazzo,
-19–40. Cambridge, UK: Open Book Publishers. DOI: https://doi.org/10.11647/
-OBP.0095
+19–40. Cambridge, UK: Open Book Publishers. DOI: https://doi.org/10.11647/OBP.0095
