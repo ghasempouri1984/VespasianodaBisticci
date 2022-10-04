@@ -1,4 +1,4 @@
-# Scholarly Digital Editions, Vespasiano da Bisticci, Lettere by Prof. Francesca Tomasi version 3
+# Letters of Vespasiano da Bisticci
 The edition project is part of the research activity of the Digital Humanities Advanced Research Center (/DH.arc) at the Department of Classical and Italian Philology (FICLIT) of the University of Bologna. The scientific director is Professor Francesca Tomasi, University of Bologna, Department of Classic Philology and Italian Studies.
 Digital edition of the Letters of Vespasiano da Bisticci, a Florentine copyist who lived in the 15th century. The letters, sent and received and up to now tracked, are navigable through a faceted system (correspondent, date, place, signature).
 ## Aims
