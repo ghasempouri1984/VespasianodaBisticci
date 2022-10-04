@@ -10,7 +10,16 @@ A diplomatic-interpretative transcription was carried out working, when possible
 
 
 ## First steps toward a spaital humanities project
+
 This project is an attempt to address the question “why map literature?”. The digital medium encourages a space for creativity and for experimentation with scholarly communication and methodologies; for example, an approach for cartographic comparison where maps and data layers can be visualized side-by-side for more intuitive explorations. The final goal is to provide a model for collaboration in which contributors with different technical skills can more readily contribute to a project, in an attempt to encourage a community of practice among literary experts that can essentially be adapted to other projects and their respective content.
+
+## Conclusion
+
+Obviously not all "places" mentioned in letters were points of interest in this project. In addition, some letters are very focused on a work that should be done but some there are more personal and "sentiment" or "tone" of these letters’ changes. If this information could be extracted from letters It seems could be informative for outsider's reader in order to be more familiar about some lived experiences of Vespasiano or persons he talked about.
+
+Moreover, the problem of this SDE could be that it has not been translated, so it is difficult to use it as a case study and the fact is that Francesca Tomasi collected all the letters that Vespasiano da Bisticci sent, not the ones he received. When you collect the letters of an author it is better not only the letters sent but also the ones received. Probably we have many more letters sent by Vespasiano than those he received. In Vespasiano’s archive you have only the letters he decided to conserve. Sometimes it is easier to find the letters which have been sent by an Author, by going to libraries and archives (see: OPAC and MANUS, in the latter you can find all the manuscripts in Italian libraries).
+
+On the other hand, this SDE is very useful and gives many possibilities to read all the gathering of all Vespasiano’s letters. You can also sort the correspondence, the places, the time. You can list documents also using signatures: the specific letter or number given to the document by the library where it has been preserved. 
 
 
 # Bibliographies
