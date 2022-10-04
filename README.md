@@ -15,6 +15,8 @@ This project is an attempt to address the question “why map literature?”. Th
 
 # Bibliographies
 
+El Khatib, Randa, and Marcel Schaeben. 2020. “Why Map Literature? Geospatial Prototyping for Literary Studies and Digital Humanities.” Digital Studies/Le champ numérique 10(1): 7, pp. 1–22. DOI: https://doi.org/10.16995/dscn.381
+
 Sahle, Partick. 2016. “What is a Scholarly Digital Edition.” In Digital Scholarly Editing:
 Theories and Practices, edited by Matthew James Driscoll and Elena Pierazzo,
 19–40. Cambridge, UK: Open Book Publishers. DOI: https://doi.org/10.11647/OBP.0095
