@@ -13,6 +13,17 @@ A diplomatic-interpretative transcription was carried out working, when possible
 
 This project is an attempt to address the question “why map literature?”. The digital medium encourages a space for creativity and for experimentation with scholarly communication and methodologies; for example, an approach for cartographic comparison where maps and data layers can be visualized side-by-side for more intuitive explorations. The final goal is to provide a model for collaboration in which contributors with different technical skills can more readily contribute to a project, in an attempt to encourage a community of practice among literary experts that can essentially be adapted to other projects and their respective content.
 
+## Reused models
+Ontology Reuse is a critical aspect for the evolution of the Semantic Web since its origins. Ontology reuse aims to foster semantic interoperability between data sources and facilitate data integration tasks. A series of existing ontologies have been reused for describing the manuscript letters and the entities that contain their contextual information. In particular:
+
+* the Biographical information vocabulary (BIO) is a vocabulary for describing biographical information about people.
+* the Dublin Core Metadata Terms (DCTerms) is an ontology implementing all the metadata terms maintained by the Dublin Core Metadata Initiative.
+* the FRBR-align Bibliographic Ontology (FaBiO) is an ontology for recording and publishing on the Semantic Web bibliographic records of scholarly endeavors.
+* the Friend Of A Friend vocabulary (FOAF) is an ontology for describing people and their relations with other people, documents, and other information objects.
+* the Expression of Core FRBR Concepts in RDF (FRBRcore) is an RDF vocabulary incorporating the basic concepts and relations described in the IFLA report on the Functional Requirements for Bibliographic Records (FRBR)
+* the Publishing Roles Ontology (PRO) is an ontology describing possible roles in the publication process, or in other scholarly activities or situations, held by particular agents in certain periods of time.
+
+
 ## Conclusion
 
 Obviously not all "places" mentioned in letters were points of interest in this project. In addition, some letters are very focused on a work that should be done but some there are more personal and "sentiment" or "tone" of these letters’ changes. If this information could be extracted from letters It seems could be informative for outsider's reader in order to be more familiar about some lived experiences of Vespasiano or persons he talked about.
