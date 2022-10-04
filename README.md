@@ -13,3 +13,9 @@ A diplomatic-interpretative transcription was carried out working, when possible
 This project is an attempt to address the question “why map literature?”. The digital medium encourages a space for creativity and for experimentation with scholarly communication and methodologies; for example, an approach for cartographic comparison where maps and data layers can be visualized side-by-side for more intuitive explorations. The final goal is to provide a model for collaboration in which contributors with different technical skills can more readily contribute to a project, in an attempt to encourage a community of practice among literary experts that can essentially be adapted to other projects and their respective content.
 
 
+# Bibliographies
+
+Sahle, Partick. 2016. “What is a Scholarly Digital Edition.” In Digital Scholarly Editing:
+Theories and Practices, edited by Matthew James Driscoll and Elena Pierazzo,
+19–40. Cambridge, UK: Open Book Publishers. DOI: https://doi.org/10.11647/
+OBP.0095
