@@ -1,0 +1,7 @@
+pip install streamlit>
+ERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.
+spyder 5.2.2 requires pyqt5<5.13, which is not installed.
+spyder 5.2.2 requires pyqtwebengine<5.13, which is not installed.
+
+======================================================================
+
