@@ -2,6 +2,8 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 import plotly.express as px
+# importing geopy library
+from geopy.geocoders import Nominatim
 
 st.title("Welcome to Vespasiano's Letters App")
 st.sidebar.title("explore letters archive")
@@ -43,3 +45,14 @@ if not st.sidebar.checkbox("Hide", True):
         st.plotly_chart(fig)
 
 
+
+#uri_from=data['uri_from'].to_list()
+# calling the Nominatim tool
+#loc = Nominatim(user_agent="GetLoc")
+#lat=[]
+#long=[]
+# entering the location name
+#for elem in uri_from:
+#    getLoc = loc.geocode(elem)
+#    lat.append(getLoc.latitude)
+#    long.append(getLoc.longitude)
